@@ -14,7 +14,7 @@ The goal of this project is to simulate a real-time data pipeline using Apache K
 * Python: Scripts for creating Kafka producers and consumers, and for storing data in S3.
 
 ## Architecture Diagram
-![Architecture Diagram](images/Architecture Diagram.png)
+![Architecture Diagram](Architecture%20Diagram.png)
 
 ## Insights and Benefits
 1. Data Simulation: Even though the data isn't real-time, we are simulating real-time data processing, which is useful for testing and creating scalable systems.
